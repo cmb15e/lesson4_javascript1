@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Connor Blay)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I learned how to use the ElementById tag in Javascript by creating my own Monthly Expense Calculator.)
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
