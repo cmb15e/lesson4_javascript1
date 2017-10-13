@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(October 13, 2017)
+October 13, 2017
 
 ### Student Name:  
-(Connor Blay)
+Connor Blay
 
 ### Project Description:
-(In this assignment, I learned how to use the ElementById tag in Javascript by creating my own Monthly Expense Calculator.)
+In this assignment, I learned how to use the ElementById tag in Javascript by creating my own Monthly Expense Calculator.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://cmb15e.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to declare a new id in an index.html file.
+2. How to declare variables in Javascript using ElementById.
+3. The various coding tactics used by ElementById.
 
